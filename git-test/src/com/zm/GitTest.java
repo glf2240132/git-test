@@ -14,4 +14,8 @@ public class GitTest {
     public static void test(){
         System.out.println(111);
     }
+
+    public  void a(){
+        int a = 10;
+    }
 }
